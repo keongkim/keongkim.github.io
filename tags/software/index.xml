@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine-learning on Keongtae Kim</title>
-    <link>https://keongkim.github.io/tags/machine-learning/</link>
-    <description>Recent content in Machine-learning on Keongtae Kim</description>
+    <title>Software on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/software/</link>
+    <description>Recent content in Software on Keongtae Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://keongkim.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keongkim.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Disclosure of Project Risk in Crowdfunding</title>
-      <link>https://keongkim.github.io/project/disclosure-in-crowdfunding/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/disclosure-in-crowdfunding/</guid>
-      <description>To alleviate the information asymmetry between creators and crowdfunders, crowdfunding platforms often implement platform-wide rules, such as requiring creators to disclose potential risks of their project. This study combines multiple empirical methods (i.e., online experiments, text-based machine learning, and a differences-in-difference design) to examine whether and how risk disclosure of crowdfunding projects influences crowdfunders� project perceptions and funding decisions, with a particular focus on the contrast between technology projects and non-technology projects.</description>
-    </item>
     
     <item>
       <title>Soft but Strong: Software-based Innovation, Product Market Competition, and Value Creation in the IT Hardware Industry</title>
