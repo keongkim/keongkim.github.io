@@ -77,6 +77,24 @@
     
     <url>
     
+      <loc>https://keongkim.github.io/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://keongkim.github.io/publication/human-capital/</loc>
       <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -105,8 +123,38 @@
     
     <url>
     
+      <loc>https://keongkim.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://keongkim.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -126,6 +174,7 @@
     <url>
     
       <loc>https://keongkim.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
