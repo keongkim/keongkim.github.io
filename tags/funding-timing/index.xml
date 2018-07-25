@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funding timing on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/funding-timing/</link>
+    <description>Recent content in Funding timing on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/funding-timing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When and How Much to Pledge: The Role of Reward versus Altruistic Motivations in Predicting Crowdfunding Pledges</title>
+      <link>https://keongkim.github.io/project/motivation-crowdfunding/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/motivation-crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
