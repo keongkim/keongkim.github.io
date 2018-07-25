@@ -40,29 +40,20 @@
     </item>
     
     <item>
-      <title>Working Paper</title>
-      <link>https://keongkim.github.io/home/workingpaper/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/home/workingpaper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://keongkim.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Talks &amp; Presentation</title>
       <link>https://keongkim.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Paper</title>
+      <link>https://keongkim.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/home/projects/</guid>
       <description></description>
     </item>
     
