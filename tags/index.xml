@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://keongkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://keongkim.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <title>Crowdfunding</title>
+      <link>https://keongkim.github.io/tags/crowdfunding/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://keongkim.github.io/tags/deep-learning/</guid>
+      <guid>https://keongkim.github.io/tags/crowdfunding/</guid>
       <description></description>
     </item>
     
@@ -27,6 +27,33 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discloure</title>
+      <link>https://keongkim.github.io/tags/discloure/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/tags/discloure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
+      <link>https://keongkim.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online-platform</title>
+      <link>https://keongkim.github.io/tags/online-platform/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/tags/online-platform/</guid>
       <description></description>
     </item>
     

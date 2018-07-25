@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://keongkim.github.io/project/disclosure-in-crowdfunding/</loc>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</loc>
       <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     </url>
@@ -68,15 +77,6 @@
     
     <url>
     
-      <loc>https://keongkim.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://keongkim.github.io/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+08:00</lastmod>
     </url>
@@ -114,8 +114,8 @@
     
     <url>
     
-      <loc>https://keongkim.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <loc>https://keongkim.github.io/tags/crowdfunding/</loc>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -134,6 +134,16 @@
     
     <url>
     
+      <loc>https://keongkim.github.io/tags/discloure/</loc>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://keongkim.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -144,8 +154,28 @@
     
     <url>
     
+      <loc>https://keongkim.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/tags/online-platform/</loc>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://keongkim.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -165,7 +195,7 @@
     <url>
     
       <loc>https://keongkim.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <lastmod>2018-07-24T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
