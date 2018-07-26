@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gender on Keongtae Kim</title>
-    <link>https://keongkim.github.io/tags/gender/</link>
-    <description>Recent content in Gender on Keongtae Kim</description>
+    <title>Donation on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/donation/</link>
+    <description>Recent content in Donation on Keongtae Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 24 Jul 2018 05:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://keongkim.github.io/tags/gender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keongkim.github.io/tags/donation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://keongkim.github.io/project/beauty-crowdfunding/</guid>
       <description>This study examines the effect of physical attractiveness of recipients on donations decisions in a prosocial microlending market by combining both the archival data analysis and controlled experiments. We find that physical attractiveness of female recipients mattters to donors. More attractive recipients tend to have a larger share of male donors, implying that male (female) donors are more (less) favorable toward those recipients. On the contrary, the physical attractiveness of male recipients did not change the composition significantly.</description>
-    </item>
-    
-    <item>
-      <title>When and How Much to Pledge: The Role of Reward versus Altruistic Motivations in Predicting Crowdfunding Pledges</title>
-      <link>https://keongkim.github.io/project/motivation-crowdfunding/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/motivation-crowdfunding/</guid>
-      <description></description>
     </item>
     
   </channel>
