@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 00:20:00 +0800</lastBuildDate>
     
 	<atom:link href="https://keongkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Angel-investing</title>
       <link>https://keongkim.github.io/tags/angel-investing/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/angel-investing/</guid>
       <description></description>
@@ -40,9 +40,18 @@
     </item>
     
     <item>
+      <title>Cryptocurrency</title>
+      <link>https://keongkim.github.io/tags/cryptocurrency/</link>
+      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discloure</title>
       <link>https://keongkim.github.io/tags/discloure/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:50:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/discloure/</guid>
       <description></description>
@@ -78,7 +87,7 @@
     <item>
       <title>Innovation</title>
       <link>https://keongkim.github.io/tags/innovation/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/innovation/</guid>
       <description></description>
@@ -87,7 +96,7 @@
     <item>
       <title>Machine-learning</title>
       <link>https://keongkim.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/machine-learning/</guid>
       <description></description>
@@ -105,16 +114,25 @@
     <item>
       <title>Online-platform</title>
       <link>https://keongkim.github.io/tags/online-platform/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:50:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/online-platform/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>P2P-lending</title>
+      <link>https://keongkim.github.io/tags/p2p-lending/</link>
+      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/tags/p2p-lending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Patent</title>
       <link>https://keongkim.github.io/tags/patent/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/patent/</guid>
       <description></description>
@@ -123,7 +141,7 @@
     <item>
       <title>Product-market-competition</title>
       <link>https://keongkim.github.io/tags/product-market-competition/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/product-market-competition/</guid>
       <description></description>
@@ -132,7 +150,7 @@
     <item>
       <title>Software</title>
       <link>https://keongkim.github.io/tags/software/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/software/</guid>
       <description></description>
@@ -141,7 +159,7 @@
     <item>
       <title>Start-up</title>
       <link>https://keongkim.github.io/tags/start-up/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/start-up/</guid>
       <description></description>
@@ -150,7 +168,7 @@
     <item>
       <title>Venture-capital</title>
       <link>https://keongkim.github.io/tags/venture-capital/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/venture-capital/</guid>
       <description></description>

@@ -21,19 +21,19 @@
     </item>
     
     <item>
-      <title>Disclosure of Project Risk in Crowdfunding</title>
-      <link>https://keongkim.github.io/project/disclosure-in-crowdfunding/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <title>Soft but Strong: Software-based Innovation, Product Market Competition, and Value Creation in the IT Hardware Industry</title>
+      <link>https://keongkim.github.io/project/cryptocurrency-p2plending/</link>
+      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
       
-      <guid>https://keongkim.github.io/project/disclosure-in-crowdfunding/</guid>
-      <description>&lt;p&gt;To alleviate the information asymmetry between creators and crowdfunders, crowdfunding platforms often implement platform-wide rules, such as requiring creators to disclose potential risks of their project. This study combines multiple empirical methods (i.e., online experiments, text-based machine learning, and a differences-in-difference design) to examine whether and how risk disclosure of crowdfunding projects influences crowdfunders’ project perceptions and funding decisions, with a particular focus on the contrast between technology projects and non-technology projects. We find that crowdfunders respond to the risk disclosure of projects, but differently between technology projects and non-technology projects. Crowdfunders in technology projects are sensitive to the content and presentation of disclosed risk information and react more negatively to projects with a higher risk, while those in non-technology projects are far less so. The reason for this difference is partly because crowdfunders are more likely to fund technology projects in the hope of the rewards creators promise, and this motive is weaker when they fund non-technology projects. These findings have implications for disclosure policies in crowd-based platforms and provide guidance for entrepreneurs seeking funds from crowds.&lt;/p&gt;
+      <guid>https://keongkim.github.io/project/cryptocurrency-p2plending/</guid>
+      <description>&lt;p&gt;We study the effect of cryptocurrency markets on borrowers in peer-to-peer (P2P) lending markets. By using the combined data from both markets during the period January 2017 to February 2018, we provide several novel findings. Our results indicate that the growth in cryptocurrency markets is associated with a large amount of loan requests in the P2P market. This complementarity is strong for borrowers who have good credit grades and are likely to have further knowledge of and might use the borrowed money for investing in the cryptocurrency market. The growth in cryptocurrency markets is further associated with a low default rate, a low interest rate, a high full-funded probability, and a short time required to meet the borrowing goal. These findings are also confirmed by our additional tests using exogenous natural shocks with propensity score matching. Overall, our study highlights the potential of the P2P lending market as a funding source for investment in the cryptocurrency market, especially for high-creditworthy investors who likely have a low entering cost into the cryptocurrency market. Implications for both cryptocurrencies and P2P markets are discussed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Soft but Strong: Software-based Innovation, Product Market Competition, and Value Creation in the IT Hardware Industry</title>
       <link>https://keongkim.github.io/project/software-based-innovation/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/software-based-innovation/</guid>
       <description>&lt;p&gt;We study the impact of software-based innovation on the value of patented inventions, firms’ competitive position in the product market, and the market value of the firms in the U.S. information and technology (IT) hardware industry. Our analysis of over 227,000 patents by 741 public IT hardware firms in the period of 1996?2006 reveals several novel findings. Patented inventions with greater software intensity are more frequently cited and more likely to be renewed for legal protection. This effect is stronger for software patents than non-software patents, though it varies across firms depending on business scope and patent value measures. Increases in software innovation are associated with greater software contents in the subsequent period’s business profile while those of non-software innovation orient business away from software-based products and services, and this pattern is particularly strong for pure IT hardware firms. Greater software innovation also drives the shift toward more software-intensive business, allowing firms to differentiate themselves from rivals in product and service offerings. This differentiation benefit appears unique to pure IT hardware firms. Despite the advantages of pure firms in software-enabled technological value creation and competitive positioning, diversified firms are no less likely to create firm value from software-based innovation. We find evidence that firms optimize their innovation strategies along the dimension of exploitation and exploration subject to their business scope constraints. Our study offers one of the first evidence that software innovation helps mitigate product market competition and thus substantiates a mechanism through which software-based innovation creates economic value.&lt;/p&gt;
@@ -41,16 +41,26 @@
     </item>
     
     <item>
-      <title>The Effect of Crowdfunding Success on Subsequent Financing Outcomes of Start-ups</title>
+      <title>Disclosure of Project Risk in Crowdfunding</title>
+      <link>https://keongkim.github.io/project/disclosure-in-crowdfunding/</link>
+      <pubDate>Tue, 24 Jul 2018 00:50:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/disclosure-in-crowdfunding/</guid>
+      <description>&lt;p&gt;To alleviate the information asymmetry between creators and crowdfunders, crowdfunding platforms often implement platform-wide rules, such as requiring creators to disclose potential risks of their project. This study combines multiple empirical methods (i.e., online experiments, text-based machine learning, and a differences-in-difference design) to examine whether and how risk disclosure of crowdfunding projects influences crowdfunders’ project perceptions and funding decisions, with a particular focus on the contrast between technology projects and non-technology projects. We find that crowdfunders respond to the risk disclosure of projects, but differently between technology projects and non-technology projects. Crowdfunders in technology projects are sensitive to the content and presentation of disclosed risk information and react more negatively to projects with a higher risk, while those in non-technology projects are far less so. The reason for this difference is partly because crowdfunders are more likely to fund technology projects in the hope of the rewards creators promise, and this motive is weaker when they fund non-technology projects. These findings have implications for disclosure policies in crowd-based platforms and provide guidance for entrepreneurs seeking funds from crowds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Joint work with [Sunghan Ryu](http://icci.sjtu.edu.cn/sunghan-ryu/?lang=zh-hans) and [Jungpil Hahn](https://www.comp.nus.edu.sg/disa/bio/jungpil/)) Effect of Crowdfunding Success on Subsequent Financing Outcomes of Start-ups</title>
       <link>https://keongkim.github.io/project/crowdfunding-vc/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/crowdfunding-vc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>When and How Much to Pledge: The Role of Reward versus Altruistic Motivations in Predicting Crowdfunding Pledges</title>
+      <title>(Joint work with [Sunghan Ryu](http://icci.sjtu.edu.cn/sunghan-ryu/?lang=zh-hans) and [Jooyoung Park](http://english.phbs.pku.edu.cn/2014/fulltime_0817/65.html)) When and How Much to Pledge: The Role of Reward versus Altruistic Motivations in Predicting Crowdfunding Pledges</title>
       <link>https://keongkim.github.io/project/motivation-crowdfunding/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
       
