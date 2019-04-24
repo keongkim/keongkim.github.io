@@ -11,7 +11,35 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Beauty Premium versus Beauty Discount in Crowdfunding Platforms</title>
+      <title>How Online Social Interactions Facilitate the Spatial Diffusion of Crowdfunding</title>
+      <link>https://keongkim.github.io/project/spatioal-diffusion-crowdfunding/</link>
+      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/spatioal-diffusion-crowdfunding/</guid>
+      <description>&lt;p&gt;This study documents the role of online social interactions in the diffusion of crowdfunding which has emerged as a viable alternative source of funding for creative projects and ventures around the world. Using the data on the creation of crowdfunding projects from a leading crowdfunding platform from 2009 to 2013 and Facebook Social Connectedness Index Data, we find that the number of crowdfunding projects initiated in an area is positively associated with the total number of prior crowdfunding projects from areas that are most socially connected online. The association is stronger when considering relatively large, successful projects. We also find that the peer effect from the socially connected areas becomes larger as the crowdfunding adoption from geographically proximate areas increases. Last, the influence of virtually connected areas is stronger for areas that are well off (i.e., areas with high internet coverage, education levels, technological capability, or entrepreneurial culture). The study provides new insights into the diffusion of crowdfunding and the digital divide, and has practical implications for platform providers and project creators.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Experts in the Crowd: The Role of Experienced Investors in a Crowdfunding Market</title>
+      <link>https://keongkim.github.io/publication/expertise-in-crowdfunding/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keongkim.github.io/publication/expertise-in-crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdfunding and the Democratization of Access to Capital: An Illusion Evidence from Housing Prices</title>
+      <link>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beauty, Gender, and Charitable Giving</title>
       <link>https://keongkim.github.io/project/beauty-crowdfunding/</link>
       <pubDate>Tue, 24 Jul 2018 05:00:00 +0800</pubDate>
       
@@ -69,24 +97,6 @@
     </item>
     
     <item>
-      <title>Disillusion of the Democratization of Finance: Housing Prices and Crowdfunding</title>
-      <link>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Experts in the Crowd: The Role of Experienced Investors in a Crowdfunding Market</title>
-      <link>https://keongkim.github.io/publication/expertise-in-crowdfunding/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/publication/expertise-in-crowdfunding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IT Investments and Firm Risk Across Industries: Evidence from the Bond Market</title>
       <link>https://keongkim.github.io/publication/it-bond-market/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
@@ -137,15 +147,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://keongkim.github.io/talk/aieanber-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Role of Beauty in Donation Crowdfunding</title>
-      <link>https://keongkim.github.io/talk/hicss-2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/talk/hicss-2019/</guid>
       <description></description>
     </item>
     
