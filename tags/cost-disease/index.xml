@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cost-disease on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/cost-disease/</link>
+    <description>Recent content in Cost-disease on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 24 Apr 2018 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/cost-disease/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information Technology and Baumol&#39;s Disease: How IT Influences Productivity of Service Activities</title>
+      <link>https://keongkim.github.io/project/it-baumol-disease/</link>
+      <pubDate>Tue, 24 Apr 2018 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/it-baumol-disease/</guid>
+      <description>Although service activities across a variety of industries suffer from Baumol&amp;rsquo;s cost disease, arguably advances in IT can help to overcome some of the regressive characteristics of &amp;ldquo;stagnant&amp;rdquo; services. To test this conjecture, we collected longitudinal data from 1985 to 2008 on about 60 micro-level service activities at the Social Security Administration (SSA), one of the largest service organizations in the world that touches lives of 162 million Americans and about 94% of all workers in the United States.</description>
+    </item>
+    
+  </channel>
+</rss>
