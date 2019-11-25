@@ -149,7 +149,7 @@
     
     <url>
     
-      <loc>https://keongkim.github.io/talk/icis-2018/</loc>
+      <loc>https://keongkim.github.io/talk/informs-2019/</loc>
     </url>
     
   
@@ -197,6 +197,22 @@
     
       <loc>https://keongkim.github.io/categories/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/talk/bit-2019/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/talk/hku-2019/</loc>
     </url>
     
   
@@ -412,14 +428,6 @@
     
     <url>
     
-      <loc>https://keongkim.github.io/talk/hicss-2019/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://keongkim.github.io/tags/service-productivity/</loc>
       <lastmod>2018-04-24T02:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -433,14 +441,6 @@
       <loc>https://keongkim.github.io/tags/social-interaction/</loc>
       <lastmod>2019-04-24T02:00:00+08:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://keongkim.github.io/talk/wise-2018/</loc>
     </url>
     
   
