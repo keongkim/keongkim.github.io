@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>How Regulations Affect Startup Locations: Evidence from Initial Coin Offerings</title>
+      <link>https://keongkim.github.io/project/ico-regulation/</link>
+      <pubDate>Thu, 06 Jan 2022 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/ico-regulation/</guid>
+      <description>&lt;p&gt;This study is an examination of initial coin offerings (ICOs), a new form of investment, using a fairly comprehensive dataset of 4,380 ICOs operating from 2017 to 2019. Specifically, we study whether ICO project creatorsâ€™ decisions on remaining in or leaving the countries of origin are affected by the ICO policy status of countries. Findings indicate that countries having ICO regulations are more likely to both retain and attract ICO projects. The effects are stronger for high-quality projects that value long-term stability than low-quality projects that may be fraudulent. The findings have implications for ICO regulators and startups by enhancing understandings of conditions that will retain and attract ICO projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equity Crowdfunding and Startup Performance</title>
+      <link>https://keongkim.github.io/project/equity-crowdfunding/</link>
+      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/equity-crowdfunding/</guid>
+      <description>&lt;p&gt;This study examines the effect of equity crowdfunding on startup performance. To do so, it uses a novel dataset of equity crowdfunding startups from January 2016 to April 2019 and constructs a sample of matched non-crowdfunding startups. The data indicate that equity crowdfunding startups rather than non-crowdfunding startups are more likely to survive, and conditional on closure, their closing dates are later than those of non-crowdfunding startups. Equity crowdfunding startups also show higher growth in employment. Additional analyses indicate that expert equity investors are crucial for startup performance at least by facilitating access to external funding and debt crowdfunding does not help startups increase performance significantly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How Online Social Interactions Facilitate the Spatial Diffusion of Crowdfunding</title>
       <link>https://keongkim.github.io/project/spatioal-diffusion-crowdfunding/</link>
       <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
@@ -59,26 +79,6 @@
     </item>
     
     <item>
-      <title>Soft but Strong: Software-based Innovation, Product Market Competition, and Value Creation in the IT Hardware Industry</title>
-      <link>https://keongkim.github.io/project/software-based-innovation/</link>
-      <pubDate>Tue, 24 Jul 2018 01:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/software-based-innovation/</guid>
-      <description>&lt;p&gt;We study the impact of software-based innovation on the value of patented inventions, firms’ competitive position in the product market, and the market value of the firms in the U.S. information and technology (IT) hardware industry. Our analysis of over 227,000 patents by 741 public IT hardware firms in the period of 1996?2006 reveals several novel findings. Patented inventions with greater software intensity are more frequently cited and more likely to be renewed for legal protection. This effect is stronger for software patents than non-software patents, though it varies across firms depending on business scope and patent value measures. Increases in software innovation are associated with greater software contents in the subsequent period’s business profile while those of non-software innovation orient business away from software-based products and services, and this pattern is particularly strong for pure IT hardware firms. Greater software innovation also drives the shift toward more software-intensive business, allowing firms to differentiate themselves from rivals in product and service offerings. This differentiation benefit appears unique to pure IT hardware firms. Despite the advantages of pure firms in software-enabled technological value creation and competitive positioning, diversified firms are no less likely to create firm value from software-based innovation. We find evidence that firms optimize their innovation strategies along the dimension of exploitation and exploration subject to their business scope constraints. Our study offers one of the first evidence that software innovation helps mitigate product market competition and thus substantiates a mechanism through which software-based innovation creates economic value.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Disclosure of Project Risk in Crowdfunding</title>
-      <link>https://keongkim.github.io/project/disclosure-in-crowdfunding/</link>
-      <pubDate>Tue, 24 Jul 2018 00:50:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/disclosure-in-crowdfunding/</guid>
-      <description>&lt;p&gt;To alleviate the information asymmetry between creators and crowdfunders, crowdfunding platforms often implement platform-wide rules, such as requiring creators to disclose potential risks of their project. This study combines multiple empirical methods (i.e., online experiments, text-based machine learning, and a differences-in-difference design) to examine whether and how risk disclosure of crowdfunding projects influences crowdfunders?project perceptions and funding decisions, with a particular focus on the contrast between technology projects and non-technology projects. We find that crowdfunders respond to the risk disclosure of projects, but differently between technology projects and non-technology projects. Crowdfunders in technology projects are sensitive to the content and presentation of disclosed risk information and react more negatively to projects with a higher risk, while those in non-technology projects are far less so. The reason for this difference is partly because crowdfunders are more likely to fund technology projects in the hope of the rewards creators promise, and this motive is weaker when they fund non-technology projects. These findings have implications for disclosure policies in crowd-based platforms and provide guidance for entrepreneurs seeking funds from crowds.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Effect of Crowdfunding Success on Subsequent Financing Outcomes of Start-ups</title>
       <link>https://keongkim.github.io/project/crowdfunding-vc/</link>
       <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
@@ -88,30 +88,29 @@
     </item>
     
     <item>
-      <title>When and How Much to Pledge: The Role of Reward versus Altruistic Motivations in Predicting Crowdfunding Pledges</title>
-      <link>https://keongkim.github.io/project/motivation-crowdfunding/</link>
-      <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/motivation-crowdfunding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information Technology and Baumol&#39;s Disease: How IT Influences Productivity of Service Activities</title>
-      <link>https://keongkim.github.io/project/it-baumol-disease/</link>
-      <pubDate>Tue, 24 Apr 2018 02:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/it-baumol-disease/</guid>
-      <description>&lt;p&gt;Although service activities across a variety of industries suffer from Baumol&amp;rsquo;s cost disease, arguably advances in IT can help to overcome some of the regressive characteristics of &amp;ldquo;stagnant&amp;rdquo; services. To test this conjecture, we collected longitudinal data from 1985 to 2008 on about 60 micro-level service activities at the Social Security Administration (SSA), one of the largest service organizations in the world that touches lives of 162 million Americans and about 94% of all workers in the United States. We find that IT labor has a positive association with productivity in service activities in the government sector, and the effect of IT labor on service productivity exceeds that of non-IT labor. IT labor has higher impact on service productivity for services that require higher customer contact and customization. The evidence in this study points to an important role of IT in enabling higher productivity even in stagnant services, suggesting that IT can help to overcome Baumol&amp;rsquo;s cost disease. Our findings also suggest that managers need to invest in IT human capital and change management efforts to deploy the right types of IT systems to meet rising demand for services and higher productivity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>IT Investments and Firm Risk Across Industries: Evidence from the Bond Market</title>
       <link>https://keongkim.github.io/publication/it-bond-market/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://keongkim.github.io/publication/it-bond-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Investments and Firm Risk Across Industries: Evidence from the Bond Market</title>
+      <link>https://keongkim.github.io/publication/risk-disclosure-in-crowdfunding/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://keongkim.github.io/publication/risk-disclosure-in-crowdfunding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Investments and Firm Risk Across Industries: Evidence from the Bond Market</title>
+      <link>https://keongkim.github.io/publication/software-innovation-and-product-differentiation/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://keongkim.github.io/publication/software-innovation-and-product-differentiation/</guid>
       <description></description>
     </item>
     

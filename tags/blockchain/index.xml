@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 06 Jan 2022 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Regulations Affect Startup Locations: Evidence from Initial Coin Offerings</title>
+      <link>https://keongkim.github.io/project/ico-regulation/</link>
+      <pubDate>Thu, 06 Jan 2022 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/ico-regulation/</guid>
+      <description>This study is an examination of initial coin offerings (ICOs), a new form of investment, using a fairly comprehensive dataset of 4,380 ICOs operating from 2017 to 2019. Specifically, we study whether ICO project creators’ decisions on remaining in or leaving the countries of origin are affected by the ICO policy status of countries. Findings indicate that countries having ICO regulations are more likely to both retain and attract ICO projects.</description>
+    </item>
+    
+  </channel>
+</rss>
