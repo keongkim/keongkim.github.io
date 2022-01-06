@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 06 Jan 2022 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jan 2022 02:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://keongkim.github.io/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Economics of NFT (Non-fungible Token)</title>
+      <link>https://keongkim.github.io/project/nft/</link>
+      <pubDate>Wed, 05 Jan 2022 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/nft/</guid>
+      <description>Non-Fungible Tokens (NFTs) witnessed a skyrocketing growth from a market cap of just $100m in 2020 to over $22bn in 2021, according to the data from DappRadar. Despite tremendous eyeballs on the rise and fall of this market, fundamental recognitions on the economic mechanisms behind this ecosystem are quite limited.
+In this project, we aim to provide a thorough understanding of the dynamics in this rising market. Specifically, we plan to explore from three aspects, including trader and creator behaviors, and platform evolutions.</description>
+    </item>
+    
+    <item>
       <title>How Regulations Affect Startup Locations: Evidence from Initial Coin Offerings</title>
       <link>https://keongkim.github.io/project/ico-regulation/</link>
-      <pubDate>Thu, 06 Jan 2022 02:00:00 +0800</pubDate>
+      <pubDate>Sun, 06 Jun 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/ico-regulation/</guid>
       <description>This study is an examination of initial coin offerings (ICOs), a new form of investment, using a fairly comprehensive dataset of 4,380 ICOs operating from 2017 to 2019. Specifically, we study whether ICO project creators’ decisions on remaining in or leaving the countries of origin are affected by the ICO policy status of countries. Findings indicate that countries having ICO regulations are more likely to both retain and attract ICO projects.</description>
@@ -28,16 +38,6 @@
       
       <guid>https://keongkim.github.io/project/cryptocurrency-p2plending/</guid>
       <description>We study the effect of cryptocurrency markets on borrowers in peer-to-peer (P2P) lending markets. By using the combined data from both markets during the period January 2017 to February 2018, we provide several novel findings. Our results indicate that the growth in cryptocurrency markets is associated with a large amount of loan requests in the P2P market. This complementarity is strong for borrowers who have good credit grades and are likely to have further knowledge of and might use the borrowed money for investing in the cryptocurrency market.</description>
-    </item>
-    
-    <item>
-      <title>Economics of NFT (Non-fungible Token)</title>
-      <link>https://keongkim.github.io/project/nft/</link>
-      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/nft/</guid>
-      <description>Non-Fungible Tokens (NFTs) witnessed a skyrocketing growth from a market cap of just $100m in 2020 to over $22bn in 2021, according to the data from DappRadar. Despite tremendous eyeballs on the rise and fall of this market, fundamental recognitions on the economic mechanisms behind this ecosystem are quite limited.
-In this project, we aim to provide a thorough understanding of the dynamics in this rising market. Specifically, we plan to explore from three aspects, including trader and creator behaviors, and platform evolutions.</description>
     </item>
     
   </channel>

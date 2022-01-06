@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 24 Apr 2019 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 02:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://keongkim.github.io/tags/equity-crowdfunding/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Equity Crowdfunding and Startup Performance</title>
       <link>https://keongkim.github.io/project/equity-crowdfunding/</link>
-      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      <pubDate>Sat, 24 Apr 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/equity-crowdfunding/</guid>
       <description>This study examines the effect of equity crowdfunding on startup performance. To do so, it uses a novel dataset of equity crowdfunding startups from January 2016 to April 2019 and constructs a sample of matched non-crowdfunding startups. The data indicate that equity crowdfunding startups rather than non-crowdfunding startups are more likely to survive, and conditional on closure, their closing dates are later than those of non-crowdfunding startups. Equity crowdfunding startups also show higher growth in employment.</description>
