@@ -97,6 +97,26 @@
     </item>
     
     <item>
+      <title>Economics of NFT (Non-fungible Token)</title>
+      <link>https://keongkim.github.io/project/nft/</link>
+      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/nft/</guid>
+      <description>&lt;p&gt;Non-Fungible Tokens (NFTs) witnessed a skyrocketing growth from a market cap of just $100m in 2020 to over $22bn in 2021, according to the data from DappRadar. Despite tremendous eyeballs on the rise and fall of this market, fundamental recognitions on the economic mechanisms behind this ecosystem are quite limited.&lt;/p&gt;
+
+&lt;p&gt;In this project, we aim to provide a thorough understanding of the dynamics in this rising market. Specifically, we plan to explore from three aspects, including trader and creator behaviors, and platform evolutions.&lt;/p&gt;
+
+&lt;p&gt;As the most crucial players in this market, traders, including sellers and buyers, exhibit large differences in their behaviors such as tastes for items, bidding strategies, and operation frequencies. What drives the tastes and corresponding demands? The feature of sole uniqueness, or embedded higher-level utility, or even those stories upon which assets are built such as creations or preceding owners? Whether and how do traders react to different models, such as fixed-price or auction sales, single-piece or bundle sales, in this highly differentiated market? Aggregately speaking, are there crowd behaviors, either rational or irrational, that are salient enough to affect decisions? Overall, answers to these questions can help make sense of who sustain the growth of NFT markets, and more importantly, how.&lt;/p&gt;
+
+&lt;p&gt;Creators, the major contributors of these flourishing NFT assets, serve a vital role in this two-sided market. Being able to profit from both initial sales and royalties from following resales, creators are now facing an entirely different incentive structure than traditional counterpart. Why do creators formulate contracts in different ways such as price, royalty percentage, or total number of owners? How do creators balance the effort tradeoff between quantity and quality? Answers to these questions are of value not only for NFT market, but also for long-lasting economic discussions on market structure and incentive design.&lt;/p&gt;
+
+&lt;p&gt;Lastly, as an open market, NFT platforms are characterized by interoperability and tradability, suggesting network effect could potentially make much greater impact on the evolution of NFT market than on social media ten years ago. Therefore, understanding the dynamics of network and community structure within NFT market can be both exciting and meaningful. For example, which type of network, random or clustered, can diffuse information quicker? Similar questions could have real practical implications on user cultivation, advertising campaign, and even platform interface designs.&lt;/p&gt;
+
+&lt;p&gt;Overviewing these heated discussions, some argue that NFTs are only symptomatic of an unsustainable, digital gold rush. Others firmly support for its unprecedented game-changing power in multiple respects of the future. In light of the pandemic accidentally bringing everything online (lectures, conferences, even social gatherings), we are confident as well as looking forward to this new world. We hope our research can probe into the underlying mechanic functions and help pave the way for an even clearer and brighter future of cryptocurrency system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Effect of Crowdfunding Success on Subsequent Financing Outcomes of Start-ups</title>
       <link>https://keongkim.github.io/project/crowdfunding-vc/</link>
       <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
@@ -138,15 +158,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://keongkim.github.io/talk/informs-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#39;Soft but Strong: Software-Based Innovation, Product Market Competition, and Value Creation in the IT Hardware Inudstry&#39; and 1 other paper</title>
-      <link>https://keongkim.github.io/talk/aom-2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/talk/aom-2019/</guid>
       <description></description>
     </item>
     

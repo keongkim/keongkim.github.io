@@ -86,6 +86,15 @@
     
     <url>
     
+      <loc>https://keongkim.github.io/project/nft/</loc>
+      <lastmod>2018-07-24T02:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://keongkim.github.io/project/crowdfunding-vc/</loc>
       <lastmod>2018-07-24T00:20:00+08:00</lastmod>
     </url>
@@ -340,6 +349,16 @@
     
       <loc>https://keongkim.github.io/tags/machine-learning/</loc>
       <lastmod>2018-07-24T05:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://keongkim.github.io/tags/nft/</loc>
+      <lastmod>2018-07-24T02:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
