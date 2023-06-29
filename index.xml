@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Interdependence between online peer‐to‐peer lending and cryptocurrency markets and its effects on financial inclusion</title>
+      <link>https://keongkim.github.io/publication/cryptocurrency-p2plending/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://keongkim.github.io/publication/cryptocurrency-p2plending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Crowdfunding Success on Subsequent Financing Outcomes of Start-ups</title>
+      <link>https://keongkim.github.io/publication/crowdfunding-vc/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://keongkim.github.io/publication/crowdfunding-vc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Risk Disclosure in Crowdfunding</title>
       <link>https://keongkim.github.io/publication/risk-disclosure-in-crowdfunding/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
@@ -49,12 +67,42 @@
     </item>
     
     <item>
+      <title>Digital Piracy of Live Content and Online Illegal Gambling: Evidence from Live Sports Broadcasting</title>
+      <link>https://keongkim.github.io/project/digital-piracy-illegal-gambling/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/digital-piracy-illegal-gambling/</guid>
+      <description>&lt;p&gt;When digital content that was once freely available through public (or free) distribution channels becomes unavailable, users are often compelled to resort to illegal channels for pirating the content. In many cases, these illegal content distributors generate profits by affiliating with illicit partners such as illegal gambling sites, while offering the content to users for free. This practice is particularly prevalent in live sports broadcasting markets. As such, this research seeks to investigate how digital piracy of live sports content is associated with illicit gambling activities. In September 2020, a leading media company in South Korea ceased selling the license of English Football League (EPL) broadcasting to popular media outlets that previously offered the content for free and started charging subscription fees for the content views. Using this event as an exogenous shock (i.e., treatment event), we analyze the causal relationship between digital piracy and illegal gambling activities. The study finds that the more individuals visited the illegal sports broadcasting website, the more likely they were to engage in illicit gambling activities. The main research findings make significant contributions to our understanding of the digital piracy of live content and its potential societal consequences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Live Shopping on Sellers on an E-commerce Platform</title>
+      <link>https://keongkim.github.io/project/livestreaming-online-sales/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/livestreaming-online-sales/</guid>
+      <description>&lt;p&gt;The widespread adoption of live shopping on e-commerce platforms has created opportunities for sellers to reach broader audiences and increase sales. Using a comprehensive dataset of sellers’ live shopping practices, this study examines the effect of live shopping on sellers in two major product categories on Korea’s largest e-commerce platform. Our findings indicate a positive impact on sales for broadcasting sellers during livestreaming events. In addition, we find significant temporal changes in sales even before and after livestreaming dates. Our findings suggest that live shopping acts as an informational discovery channel that helps attract and retain customer attention. Furthermore, we investigate the aggregate impact on platform growth and find that livestreams have a positive effect not only on livestreaming sellers but also on non-streaming stores, contributing to sustainable platform growth. These findings underscore the potential of live shopping as an effective tool to influence sales on e-commerce platforms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mobile Location-Based Recommendation Systems and Local Economy</title>
       <link>https://keongkim.github.io/project/smart-around/</link>
       <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/smart-around/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Bike-Sharing Services on Local Business</title>
+      <link>https://keongkim.github.io/project/bike-sharing-restaurant/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/bike-sharing-restaurant/</guid>
+      <description>&lt;p&gt;Despite the significance of bike-sharing services as a daily means of transportation and their potential to influence supply and demand in the local economy, the impact of these services on local businesses has not been studied yet. Hence, this research aims to examine how a bike sharing program influences the success of local businesses. We analyzed data on 3,623 local restaurants and their credit card sales recorded from February to August 2019, along with bike rentals made by local passengers near the restaurants, to investigate the association between bike-sharing rentals and local restaurant sales. Our findings show that the number of bike rentals around a restaurant is positively associated with its sales. We further find that the impact of bike rentals becomes more significant when there are more subway passengers around the restaurants, while the impact becomes less significant when there are more bus passengers. This indicates that consumers use bikes as a last-mile transit mode for restaurant visits. Moreover, we find that non-franchise (less-popular) and new restaurants (opened within 1-year) benefit more from the bike-sharing program. We believe that the main findings offer significant contributions to existing literature by theorizing the value of sharing economy programs in the local economy context. In addition, our results provide strategic implications for policymakers and local businesses to make effective use of sharing economy programs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -68,12 +116,32 @@
     </item>
     
     <item>
+      <title>Who Makes the Magic Happen? Investigating the Effectiveness of Promotion Strategies</title>
+      <link>https://keongkim.github.io/project/promotion-strategy/</link>
+      <pubDate>Sun, 06 Jun 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/promotion-strategy/</guid>
+      <description>&lt;p&gt;Online platforms have emerged as an alternative method for companies to directly introduce and promote their products to their target audience, bypassing the need for third-party endorsements. However, the effectiveness of self-promotion compared to external promotion remains uncertain. This study utilizes role theory and focuses on a specialized online community platform for technological products to examine the impact of external promoters versus internal promoters. Our findings reveal that external promoters are more effective in promoting products, as they receive a higher number of upvotes from platform supporters compared to internal promoters. Additionally, the effectiveness of external promoters is enhanced when they promote a larger quantity of products. Furthermore, the concurrent promotion of additional products influences the effectiveness of a focal product&amp;rsquo;s promotion in a complex manner, revealing the intricacies of promotional practices in the dynamic context of new product introductions. Overall, our research underscores the significance of individuals maintaining their primary roles to avoid role conflict and enhance effectiveness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Equity Crowdfunding and Startup Performance</title>
       <link>https://keongkim.github.io/project/equity-crowdfunding/</link>
       <pubDate>Sat, 24 Apr 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/equity-crowdfunding/</guid>
       <description>&lt;p&gt;This study examines the effect of equity crowdfunding on startup performance. To do so, it uses a novel dataset of equity crowdfunding startups from January 2016 to April 2019 and constructs a sample of matched non-crowdfunding startups. The data indicate that equity crowdfunding startups rather than non-crowdfunding startups are more likely to survive, and conditional on closure, their closing dates are later than those of non-crowdfunding startups. Equity crowdfunding startups also show higher growth in employment. Additional analyses indicate that expert equity investors are crucial for startup performance at least by facilitating access to external funding and debt crowdfunding does not help startups increase performance significantly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Machine-Generated Ratings and Social Exposure Affect Human Reviewers: Evidence from Initial Coin Offerings</title>
+      <link>https://keongkim.github.io/project/machine-human-rating-ico/</link>
+      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/machine-human-rating-ico/</guid>
+      <description>&lt;p&gt;While machine-generated information has become more prevalent in online professional ratings, how it is used as a basis for human ratings has been relatively underexplored. Using online professional ratings of initial coin offerings (ICOs) projects as a context, this study examines how the increased social exposure of human ratings and the different types of experiences influence the ratings of human ICO experts relative to machine-generated ratings. Leveraging an event of an interface design change on a major ICO rating platform, we find that the increased social exposure of human ratings makes human experts with advisor experiences reduce their rating levels, makes them less likely to rate above the machine-generated rating scores, and makes them rate closer to the machine-generated rating scores. We also find that the increased social exposure of human ratings makes human experts with team member experiences (of ICO projects) rate closer to the machine-generated rating scores, although the increased social exposure does not significantly change their rating levels. Our findings suggest that human experts with advisor experiences may strategically go above the machine-generated scores to overrate projects and impress the project teams, while human experts with team member experiences do not have the tendency to overrate. In general, the increased social exposure drives human experts to conform to the machine-generated scores in ratings and possibly corrects the biases in human ratings.&lt;/p&gt;
 </description>
     </item>
     
@@ -93,71 +161,6 @@
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keongkim.github.io/publication/expertise-in-crowdfunding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crowdfunding and the Democratization of Access to Capital: An Illusion? Evidence from Housing Prices</title>
-      <link>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/publication/housing-prices-and-crowdfunding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beauty, Gender, and Charitable Giving</title>
-      <link>https://keongkim.github.io/project/beauty-crowdfunding/</link>
-      <pubDate>Tue, 24 Jul 2018 05:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/beauty-crowdfunding/</guid>
-      <description>&lt;p&gt;This study examines the effect of physical attractiveness of recipients on donations decisions in a prosocial microlending market by combining both the archival data analysis and controlled experiments. We find that physical attractiveness of female recipients mattters to donors. More attractive recipients tend to have a larger share of male donors, implying that male (female) donors are more (less) favorable toward those recipients. On the contrary, the physical attractiveness of male recipients did not change the composition significantly. Our experiments show that this is partly because male donors give more to more attractive female recipients because of their intuitive preference, simply liking the attractive female more. These findings have implications for the beauty effect in crowd-driven platforms and provide guidance for recipients seeking donation from crowds.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Complements Rather Than Substitutes: An Empirical Examination of Cryptocurrency and Online Peer-to-Peer Lending Markets</title>
-      <link>https://keongkim.github.io/project/cryptocurrency-p2plending/</link>
-      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/cryptocurrency-p2plending/</guid>
-      <description>&lt;p&gt;We study the effect of cryptocurrency markets on borrowers in peer-to-peer (P2P) lending markets. By using the combined data from both markets during the period January 2017 to February 2018, we provide several novel findings. Our results indicate that the growth in cryptocurrency markets is associated with a large amount of loan requests in the P2P market. This complementarity is strong for borrowers who have good credit grades and are likely to have further knowledge of and might use the borrowed money for investing in the cryptocurrency market. The growth in cryptocurrency markets is further associated with a low default rate, a low interest rate, a high full-funded probability, and a short time required to meet the borrowing goal. These findings are also confirmed by our additional tests using exogenous natural shocks with propensity score matching. Overall, our study highlights the potential of the P2P lending market as a funding source for investment in the cryptocurrency market, especially for high-creditworthy investors who likely have a low entering cost into the cryptocurrency market. Implications for both cryptocurrencies and P2P markets are discussed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effect of Crowdfunding Success on Subsequent Financing Outcomes of Start-ups</title>
-      <link>https://keongkim.github.io/project/crowdfunding-vc/</link>
-      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/project/crowdfunding-vc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT Investments and Firm Risk Across Industries: Evidence from the Bond Market</title>
-      <link>https://keongkim.github.io/publication/it-bond-market/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/publication/it-bond-market/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does Product Market Competition Drive CVC Investment? Evidence from the U.S. IT Industry</title>
-      <link>https://keongkim.github.io/publication/corporate-venture-capital/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/publication/corporate-venture-capital/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry-Specific Human Capital and Wages: Evidence from the Business Process Outsourcing Industry</title>
-      <link>https://keongkim.github.io/publication/human-capital/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://keongkim.github.io/publication/human-capital/</guid>
       <description></description>
     </item>
     

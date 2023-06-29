@@ -23,12 +23,39 @@ In this project, we aim to provide a thorough understanding of the dynamics in t
     </item>
     
     <item>
+      <title>Digital Piracy of Live Content and Online Illegal Gambling: Evidence from Live Sports Broadcasting</title>
+      <link>https://keongkim.github.io/project/digital-piracy-illegal-gambling/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/digital-piracy-illegal-gambling/</guid>
+      <description>When digital content that was once freely available through public (or free) distribution channels becomes unavailable, users are often compelled to resort to illegal channels for pirating the content. In many cases, these illegal content distributors generate profits by affiliating with illicit partners such as illegal gambling sites, while offering the content to users for free. This practice is particularly prevalent in live sports broadcasting markets. As such, this research seeks to investigate how digital piracy of live sports content is associated with illicit gambling activities.</description>
+    </item>
+    
+    <item>
+      <title>Impact of Live Shopping on Sellers on an E-commerce Platform</title>
+      <link>https://keongkim.github.io/project/livestreaming-online-sales/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/livestreaming-online-sales/</guid>
+      <description>The widespread adoption of live shopping on e-commerce platforms has created opportunities for sellers to reach broader audiences and increase sales. Using a comprehensive dataset of sellers’ live shopping practices, this study examines the effect of live shopping on sellers in two major product categories on Korea’s largest e-commerce platform. Our findings indicate a positive impact on sales for broadcasting sellers during livestreaming events. In addition, we find significant temporal changes in sales even before and after livestreaming dates.</description>
+    </item>
+    
+    <item>
       <title>Mobile Location-Based Recommendation Systems and Local Economy</title>
       <link>https://keongkim.github.io/project/smart-around/</link>
       <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/smart-around/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Bike-Sharing Services on Local Business</title>
+      <link>https://keongkim.github.io/project/bike-sharing-restaurant/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/bike-sharing-restaurant/</guid>
+      <description>Despite the significance of bike-sharing services as a daily means of transportation and their potential to influence supply and demand in the local economy, the impact of these services on local businesses has not been studied yet. Hence, this research aims to examine how a bike sharing program influences the success of local businesses. We analyzed data on 3,623 local restaurants and their credit card sales recorded from February to August 2019, along with bike rentals made by local passengers near the restaurants, to investigate the association between bike-sharing rentals and local restaurant sales.</description>
     </item>
     
     <item>
@@ -41,12 +68,30 @@ In this project, we aim to provide a thorough understanding of the dynamics in t
     </item>
     
     <item>
+      <title>Who Makes the Magic Happen? Investigating the Effectiveness of Promotion Strategies</title>
+      <link>https://keongkim.github.io/project/promotion-strategy/</link>
+      <pubDate>Sun, 06 Jun 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/promotion-strategy/</guid>
+      <description>Online platforms have emerged as an alternative method for companies to directly introduce and promote their products to their target audience, bypassing the need for third-party endorsements. However, the effectiveness of self-promotion compared to external promotion remains uncertain. This study utilizes role theory and focuses on a specialized online community platform for technological products to examine the impact of external promoters versus internal promoters. Our findings reveal that external promoters are more effective in promoting products, as they receive a higher number of upvotes from platform supporters compared to internal promoters.</description>
+    </item>
+    
+    <item>
       <title>Equity Crowdfunding and Startup Performance</title>
       <link>https://keongkim.github.io/project/equity-crowdfunding/</link>
       <pubDate>Sat, 24 Apr 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/project/equity-crowdfunding/</guid>
       <description>This study examines the effect of equity crowdfunding on startup performance. To do so, it uses a novel dataset of equity crowdfunding startups from January 2016 to April 2019 and constructs a sample of matched non-crowdfunding startups. The data indicate that equity crowdfunding startups rather than non-crowdfunding startups are more likely to survive, and conditional on closure, their closing dates are later than those of non-crowdfunding startups. Equity crowdfunding startups also show higher growth in employment.</description>
+    </item>
+    
+    <item>
+      <title>How Machine-Generated Ratings and Social Exposure Affect Human Reviewers: Evidence from Initial Coin Offerings</title>
+      <link>https://keongkim.github.io/project/machine-human-rating-ico/</link>
+      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/machine-human-rating-ico/</guid>
+      <description>While machine-generated information has become more prevalent in online professional ratings, how it is used as a basis for human ratings has been relatively underexplored. Using online professional ratings of initial coin offerings (ICOs) projects as a context, this study examines how the increased social exposure of human ratings and the different types of experiences influence the ratings of human ICO experts relative to machine-generated ratings. Leveraging an event of an interface design change on a major ICO rating platform, we find that the increased social exposure of human ratings makes human experts with advisor experiences reduce their rating levels, makes them less likely to rate above the machine-generated rating scores, and makes them rate closer to the machine-generated rating scores.</description>
     </item>
     
     <item>

@@ -31,5 +31,14 @@ In this project, we aim to provide a thorough understanding of the dynamics in t
       <description>This study is an examination of initial coin offerings (ICOs), a new form of investment, using a fairly comprehensive dataset of 4,380 ICOs operating from 2017 to 2019. Specifically, we study whether ICO project creators’ decisions on remaining in or leaving the countries of origin are affected by the ICO policy status of countries. Findings indicate that countries having ICO regulations are more likely to both retain and attract ICO projects.</description>
     </item>
     
+    <item>
+      <title>How Machine-Generated Ratings and Social Exposure Affect Human Reviewers: Evidence from Initial Coin Offerings</title>
+      <link>https://keongkim.github.io/project/machine-human-rating-ico/</link>
+      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/machine-human-rating-ico/</guid>
+      <description>While machine-generated information has become more prevalent in online professional ratings, how it is used as a basis for human ratings has been relatively underexplored. Using online professional ratings of initial coin offerings (ICOs) projects as a context, this study examines how the increased social exposure of human ratings and the different types of experiences influence the ratings of human ICO experts relative to machine-generated ratings. Leveraging an event of an interface design change on a major ICO rating platform, we find that the increased social exposure of human ratings makes human experts with advisor experiences reduce their rating levels, makes them less likely to rate above the machine-generated rating scores, and makes them rate closer to the machine-generated rating scores.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ratings on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/ratings/</link>
+    <description>Recent content in Ratings on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 24 Apr 2019 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/ratings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Machine-Generated Ratings and Social Exposure Affect Human Reviewers: Evidence from Initial Coin Offerings</title>
+      <link>https://keongkim.github.io/project/machine-human-rating-ico/</link>
+      <pubDate>Wed, 24 Apr 2019 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/machine-human-rating-ico/</guid>
+      <description>While machine-generated information has become more prevalent in online professional ratings, how it is used as a basis for human ratings has been relatively underexplored. Using online professional ratings of initial coin offerings (ICOs) projects as a context, this study examines how the increased social exposure of human ratings and the different types of experiences influence the ratings of human ICO experts relative to machine-generated ratings. Leveraging an event of an interface design change on a major ICO rating platform, we find that the increased social exposure of human ratings makes human experts with advisor experiences reduce their rating levels, makes them less likely to rate above the machine-generated rating scores, and makes them rate closer to the machine-generated rating scores.</description>
+    </item>
+    
+  </channel>
+</rss>

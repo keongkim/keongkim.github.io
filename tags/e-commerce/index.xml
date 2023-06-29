@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-commerce on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/e-commerce/</link>
+    <description>Recent content in E-commerce on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Oct 2021 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impact of Live Shopping on Sellers on an E-commerce Platform</title>
+      <link>https://keongkim.github.io/project/livestreaming-online-sales/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/livestreaming-online-sales/</guid>
+      <description>The widespread adoption of live shopping on e-commerce platforms has created opportunities for sellers to reach broader audiences and increase sales. Using a comprehensive dataset of sellers’ live shopping practices, this study examines the effect of live shopping on sellers in two major product categories on Korea’s largest e-commerce platform. Our findings indicate a positive impact on sales for broadcasting sellers during livestreaming events. In addition, we find significant temporal changes in sales even before and after livestreaming dates.</description>
+    </item>
+    
+  </channel>
+</rss>

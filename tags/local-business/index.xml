@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local-business on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/local-business/</link>
+    <description>Recent content in Local-business on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Oct 2021 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/local-business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Impact of Bike-Sharing Services on Local Business</title>
+      <link>https://keongkim.github.io/project/bike-sharing-restaurant/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/bike-sharing-restaurant/</guid>
+      <description>Despite the significance of bike-sharing services as a daily means of transportation and their potential to influence supply and demand in the local economy, the impact of these services on local businesses has not been studied yet. Hence, this research aims to examine how a bike sharing program influences the success of local businesses. We analyzed data on 3,623 local restaurants and their credit card sales recorded from February to August 2019, along with bike rentals made by local passengers near the restaurants, to investigate the association between bike-sharing rentals and local restaurant sales.</description>
+    </item>
+    
+  </channel>
+</rss>

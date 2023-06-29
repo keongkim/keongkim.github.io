@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live-content on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/live-content/</link>
+    <description>Recent content in Live-content on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Oct 2021 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/live-content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Piracy of Live Content and Online Illegal Gambling: Evidence from Live Sports Broadcasting</title>
+      <link>https://keongkim.github.io/project/digital-piracy-illegal-gambling/</link>
+      <pubDate>Tue, 05 Oct 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/digital-piracy-illegal-gambling/</guid>
+      <description>When digital content that was once freely available through public (or free) distribution channels becomes unavailable, users are often compelled to resort to illegal channels for pirating the content. In many cases, these illegal content distributors generate profits by affiliating with illicit partners such as illegal gambling sites, while offering the content to users for free. This practice is particularly prevalent in live sports broadcasting markets. As such, this research seeks to investigate how digital piracy of live sports content is associated with illicit gambling activities.</description>
+    </item>
+    
+  </channel>
+</rss>

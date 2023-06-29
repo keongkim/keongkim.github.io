@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internal-promotion on Keongtae Kim</title>
+    <link>https://keongkim.github.io/tags/internal-promotion/</link>
+    <description>Recent content in Internal-promotion on Keongtae Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 06 Jun 2021 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://keongkim.github.io/tags/internal-promotion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Makes the Magic Happen? Investigating the Effectiveness of Promotion Strategies</title>
+      <link>https://keongkim.github.io/project/promotion-strategy/</link>
+      <pubDate>Sun, 06 Jun 2021 02:00:00 +0800</pubDate>
+      
+      <guid>https://keongkim.github.io/project/promotion-strategy/</guid>
+      <description>Online platforms have emerged as an alternative method for companies to directly introduce and promote their products to their target audience, bypassing the need for third-party endorsements. However, the effectiveness of self-promotion compared to external promotion remains uncertain. This study utilizes role theory and focuses on a specialized online community platform for technological products to examine the impact of external promoters versus internal promoters. Our findings reveal that external promoters are more effective in promoting products, as they receive a higher number of upvotes from platform supporters compared to internal promoters.</description>
+    </item>
+    
+  </channel>
+</rss>
