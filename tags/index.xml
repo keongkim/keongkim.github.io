@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 24 Jul 2018 00:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 05:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://keongkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Angel-investing</title>
-      <link>https://keongkim.github.io/tags/angel-investing/</link>
-      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/tags/angel-investing/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Beauty</title>
@@ -256,15 +247,6 @@
     </item>
     
     <item>
-      <title>P2P-lending</title>
-      <link>https://keongkim.github.io/tags/p2p-lending/</link>
-      <pubDate>Tue, 24 Jul 2018 02:00:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/tags/p2p-lending/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Product-promotion</title>
       <link>https://keongkim.github.io/tags/product-promotion/</link>
       <pubDate>Sun, 06 Jun 2021 02:00:00 +0800</pubDate>
@@ -346,29 +328,11 @@
     </item>
     
     <item>
-      <title>Start-up</title>
-      <link>https://keongkim.github.io/tags/start-up/</link>
-      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/tags/start-up/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Startup</title>
       <link>https://keongkim.github.io/tags/startup/</link>
       <pubDate>Sat, 24 Apr 2021 02:00:00 +0800</pubDate>
       
       <guid>https://keongkim.github.io/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Venture-capital</title>
-      <link>https://keongkim.github.io/tags/venture-capital/</link>
-      <pubDate>Tue, 24 Jul 2018 00:20:00 +0800</pubDate>
-      
-      <guid>https://keongkim.github.io/tags/venture-capital/</guid>
       <description></description>
     </item>
     
